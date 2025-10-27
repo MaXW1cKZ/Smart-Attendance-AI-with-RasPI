@@ -1,0 +1,17 @@
+# Python Virtual Environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Dataset - เอา # ออกถ้าไม่ต้องการอัปโหลด dataset
+dataset/
+
+# Saved Models - เอา # ออกถ้าไม่ต้องการอัปโหลดไฟล์โมเดลที่เทรนแล้ว
+*.pth
+*.pt
